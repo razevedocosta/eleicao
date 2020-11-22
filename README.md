@@ -1,6 +1,6 @@
 # Eleição
 
-**Aplicação web para registro de votos**
+**Aplicação web para registro de votos**<br>
 Este material foi elaborado durante a disciplina de Programação Web - 2020/02 - da Faculdade Estácio (AM)
 
 ![](https://github.com/razevedocosta/eleicao/blob/main/img/eleicao1.png)
