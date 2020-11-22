@@ -1,0 +1,19 @@
+.perfil-content {
+    margin-top: 6rem;
+}
+
+#form-button-profile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#form-button-profile .btn-primary {
+    margin-left: 10px;
+    flex-grow: 2;
+}
+
+.btn-file {
+    border-radius: 50%;
+    background-color: #FF9000;
+}

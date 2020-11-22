@@ -1,0 +1,35 @@
+body {
+    background-color: #2EB955;
+}
+
+.container-login {
+    width: 60%;
+    height: auto;
+    margin: 100px auto;
+    color: white;    
+    text-align: center;
+}
+
+.container-login form{
+    margin-top: 100px;
+}
+
+.container-login hr {
+    width: 100%;
+    height: 2px;
+    background-color: #FF9000;
+}
+
+.container-login a{
+    color: white;
+    text-decoration: none;
+}
+
+.form-link {
+    font-size: 12px;
+    margin-bottom: 40px;
+}
+
+.container-img {
+    margin-top: 50px;
+}
