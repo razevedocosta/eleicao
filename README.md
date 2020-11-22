@@ -3,6 +3,8 @@
 **Aplicação web para registro de votos**
 Este material foi elaborado durante a disciplina de Programação Web - 2020/02 - da Faculdade Estácio (AM)
 
+![](https://github.com/razevedocosta/eleicao/blob/main/img/eleicao1.png)
+
 **Objetivo:**
 Desenvolver uma aplicação web integrada a um banco de dados para compreensão de assuntos abordados durante a realização da disciplina de programação.
 Além disso, praticar todo o conhecimento adquirido, envolvendo criação de layout, modelagem de dados, e codificação em linguagem PHP.
